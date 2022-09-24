@@ -1,0 +1,8 @@
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 70px;
+  }
+
+  body {
+    background-image: linear-gradient(to right top, #ff0808, #ff8e0d, #ffe600, #00c825, #0829ff, #9100f8);
+  }
